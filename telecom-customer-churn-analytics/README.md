@@ -31,7 +31,7 @@ Customer churn creates major revenue loss for telecom providers. Without early i
 ## Analytics Workflow
 
 ### 1. SAS Viya Modeling Pipeline
-![SAS Viya Modeling Pipeline](images/SAS Viya Modeling Pipeline.png)
+![SAS Viya Modeling Pipeline](images/sas-viya-modeling-pipeline.png)
 
 This workflow shows the end-to-end modeling pipeline used in SAS Viya, including data input, transformation, imputation, logistic regression, and model comparison.
 
