@@ -6,7 +6,7 @@ Interactive Tableau dashboard analyzing Global Superstore order data from 2017 t
 [View on Tableau Public](https://public.tableau.com/app/profile/shivachethan.reddy.peri/viz/global-superstore-sales-insights/Dashboard?publish=yes)
 
 ## Dashboard Preview
-![Dashboard Preview](images/dashboard.jpg)
+![Dashboard Preview](images/dashboard.png)
 
 ## Business Problem
 A global retail business needs to understand how sales are distributed across time, regions, customer segments, and shipping behavior in order to identify growth patterns and high-performing markets.
