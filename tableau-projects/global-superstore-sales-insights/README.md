@@ -32,27 +32,27 @@ A global retail business needs to understand how sales are distributed across ti
 ## Dashboard Components
 
 ### 1. Sales Histogram
-![Sales Histogram](images/histogram.jpg)
+![Sales Histogram](images/histogram.png)
 
 Shows that most sales transactions are low-value, with a long right tail of larger transactions.
 
 ### 2. Sales Versus Order Date
-![Line Chart](images/line-chart.jpg)
+![Line Chart](images/line-chart.png)
 
 Tracks quarterly sales across Consumer, Corporate, and Home Office segments. Consumer leads throughout the period and all segments trend upward overall.
 
 ### 3. Orders per Year
-![Bar Chart](images/bar-chart.jpg)
+![Bar Chart](images/bar-chart.png)
 
 Displays year-over-year growth in distinct orders from 2017 to 2020, with Standard Class dominating shipping volume.
 
 ### 4. Sales Map
-![Map](images/map.jpg)
+![Map](images/map.png)
 
 Highlights geographic concentration of sales, with top-performing states standing out visually.
 
 ### 5. Regional Treemap
-![Treemap](images/treemap.jpg)
+![Treemap](images/treemap.png)
 
 Compares regional sales contribution and shows Western Europe as the largest contributor.
 
