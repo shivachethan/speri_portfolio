@@ -1,6 +1,8 @@
 # Telecom Customer Churn Analytics and Retention Strategy
 
-This project is a full analytics case study focused on understanding, predicting, and reducing telecom customer churn. It combines data cleaning, missing value treatment, exploratory data analysis, predictive modeling, risk segmentation, dashboarding, and business recommendatding, predicting, and reducing telecom customer churn. It combines data cleaning, missing vject was to identify key drivers of customer churn for Maven Communications and translate those findings into measurable business actions. The analysis combined Tableau, Power BI, Python, and SAS Viya to build both diagnostic dashboards and predictive churn segmentation for better decision-making.
+This project is an end-to-end analytics case study on telecom customer churn, focused on identifying why customers leave, predicting who is most at risk, and recommending actions to improve retention. It combines data cleaning, missing value treatment, exploratory analysis, predictive modeling, risk segmentation, and interactive dashboarding to turn raw customer data into actionable business insights.
+
+The goal of the project was to uncover the key drivers of churn for Maven Communications and translate those findings into practical, measurable retention strategies. Using Tableau, Power BI, Python, and SAS Viya, the analysis delivered both diagnostic views of churn behavior and predictive risk segmentation to support better business decision-making.
 
 ## Business Problem
 Customer churn creates major revenue loss for telecom providers. Without early insight into high-risk customers, retention efforts become reactive and inefficient. This project was designed to help leadership identify churn drivers, monitor churn patterns, and target retention campaigns more effectively.
@@ -29,7 +31,7 @@ Customer churn creates major revenue loss for telecom providers. Without early i
 ## Analytics Workflow
 
 ### 1. SAS Viya Modeling Pipeline
-![SAS Viya Modeling Pipeline](images/sas-viya-modeling-pipeline.png)
+![SAS Viya Modeling Pipeline](images/SAS Viya Modeling Pipeline.png)
 
 This workflow shows the end-to-end modeling pipeline used in SAS Viya, including data input, transformation, imputation, logistic regression, and model comparison.
 
