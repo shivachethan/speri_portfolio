@@ -36,7 +36,7 @@ Customer churn creates major revenue loss for telecom providers. Without early i
 This workflow shows the end-to-end modeling pipeline used in SAS Viya, including data input, transformation, imputation, logistic regression, and model comparison.
 
 ### 2. Power BI Customer Churn Dashboard
-![Power BI Customer Churn Dashboard](images/powerbi-customer-churn-dashboard.png)
+![Power BI Customer Churn Dashboard](images/powerbi-customer-churn-dashboard.jpg)
 
 The Power BI dashboard was designed to provide KPI monitoring and interactive churn analysis across customer demographics, services, contracts, payment methods, and age groups.
 
